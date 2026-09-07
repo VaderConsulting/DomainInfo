@@ -1,6 +1,6 @@
 # DomainInfo
 
-VB6 Domain Info utility (`DomInfo.exe`) for querying basic domain information from a simple WinForms host.
+VB6 Domain Info utility (`DomInfo.exe`) that lists users, groups, or computers from a WinNT ADSI domain (`GetObject("WinNT://…,domain")`), can expand group membership for selected objects, and export the group list. Open `DomInfo.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
